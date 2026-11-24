@@ -9,7 +9,7 @@ PlayRDR2Linux provides a compatibility layer that intercepts the game's launch p
 ## Supported Games
 
 - **Red Dead Redemption 2**.
-- **[Grand Theft Auto V](https://github.com/treviasxk/PlayGTAVLinux)** — See the dedicated PlayRDR2Linux project.
+- **[Grand Theft Auto V](https://github.com/treviasxk/PlayGTAVLinux)** — Legacy and Enhanced editions.
 
 ## Features
 
